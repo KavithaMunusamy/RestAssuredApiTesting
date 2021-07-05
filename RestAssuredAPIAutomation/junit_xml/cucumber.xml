@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="3.271">
+<testcase classname="Details of the cities" name="Verify the details of the given city" time="3.052">
+<system-out><![CDATA[Given The URL for the list of companies and its location in the network.....passed
+When Hit the URL with the  "/visa-frankfurt" path param.....................passed
+Then Verify the "Frankfurt" City is in the "DE" Country.....................passed
+And Verify the "50.1072" and "8.66375" of the city..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
